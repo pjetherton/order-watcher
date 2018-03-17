@@ -1,0 +1,44 @@
+{
+  "order items": [
+    {
+      "order reference": "93850a17-2815-4334-a602-1d5d223ee2d6",
+	  "marketplace": "AMAZON",
+      "order item number": 1,
+      "sku": "MNET-4561",
+      "price per unit": 120.99,
+      "quantity": 2
+    },
+    {
+      "order reference": "PS-CS-000001-A",
+	  "marketplace": "PrestaShop",
+      "order item number": "PS-CS-000001-A_2",
+      "sku": "STU-BLUE-XL",
+      "price per unit": 11.99,
+      "quantity": 1
+    },
+    {
+      "order reference": "PS-CS-000001-A",
+	  "marketplace": "PrestaShop",
+      "order item number": "PS-CS-000001-A_1",
+      "sku": "STV-GREEN-48",
+      "price per unit": 14.97,
+      "quantity": 2
+    },
+    {
+      "order reference": "93850a17-2815-4334-a602-1d5d223ee2d6",
+	  "marketplace": "AMAZON",
+      "order item number": 3,
+      "sku": "3498-KID-F",
+      "price per unit": 89.39,
+      "quantity": 1
+    },
+    {
+      "order reference": "4254656575765765",
+	  "marketplace": "Walmart",
+      "order item number": 1,
+      "sku": "LOW-G-MAN",
+      "price per unit": 39.89,
+      "quantity": 6
+    }
+  ]
+}

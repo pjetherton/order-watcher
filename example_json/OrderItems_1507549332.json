@@ -1,0 +1,44 @@
+{
+  "order items": [
+    {
+      "order reference": "1000999_993BHH",
+	  "marketplace": "Tesco",
+      "order item number": "A",
+      "sku": "mPhoneBlue",
+      "price per unit": 399.99,
+      "quantity": 1
+    },
+    {
+      "order reference": "1000999_993BHH",
+	  "marketplace": "Tesco",
+      "order item number": "B",
+      "sku": "mPhoneBlue_case_FTG",
+      "price per unit": 11.99,
+      "quantity": 1
+    },
+    {
+      "order reference": "4254656575765765",
+	  "marketplace": "Walmart",
+      "order item number": 1,
+      "sku": "LOW-G-MH",
+      "price per unit": 39.89,
+      "quantity": 6
+    },
+    {
+      "order reference": "93850a17-2815-4334-a602-1d5d223ee2d6",
+	  "marketplace": "AMAZON",
+      "order item number": 2,
+      "sku": "MNET-4651",
+      "price per unit": 39.99,
+      "quantity": 1
+    },
+    {
+      "order reference": "SDD4254656575765765-kdu94",
+	  "marketplace": "JET",
+      "order item number": null,
+      "sku": "RAZOR_DISP_rt6",
+      "price per unit": 0.99,
+      "quantity": 15
+    }
+  ]
+}
